@@ -1,11 +1,11 @@
-<p align="center"><h1 style="color:'red' "> welcome to library_system-by laravel</h1></p>
+<p align="center"><h1 style="color:red "> welcome to library system by laravel</h1></p>
 
 
 
 ## Library System
 
   application useing laravel include:
-  1-books,authers,reservation,notification and email using queue and notification 
+  books,authers,Reservation,notification and email using queue and notification 
 ## to dowoloned project => 
 ## steps=>
 #

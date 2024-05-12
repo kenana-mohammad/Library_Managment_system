@@ -27,10 +27,10 @@ composer install</h3>
  <h5> php artisan migrate <h5>
 <h5> php artisan serve <h5>
 <h1>
-    project include :</h1>h1><br><p> email by mailtrap 
-    and notification mail and db </p> 
+    project include :</h1><br><h4> email by mailtrap 
+    and notification mail and db </h4> 
 
-
+# url docuomantion postman to test:
 <a href="https://documenter.getpostman.com/view/30469576/2sA3JNa15x"> postman Documantion</a>
 
 

@@ -1,4 +1,4 @@
-<p align="center"><h1 style="color:red "> welcome to library system by laravel</h1></p>
+<p align="center"><h1 color:red > welcome to library system by laravel</h1></p>
 
 
 
@@ -22,15 +22,13 @@ composer install</h3>
     cd .env.example env</h3>
     
    <h3>  php artisan key:generate </h3>
-    to generate vendor
 
 ## step 3
  <h5> php artisan migrate <h5>
 <h5> php artisan serve <h5>
 <h1>
-    project include :<br><p> email by mailtrap 
+    project include :</h1>h1><br><p> email by mailtrap 
     and notification mail and db </p> 
-</h1>
 
 
 <a href="https://documenter.getpostman.com/view/30469576/2sA3JNa15x"> postman Documantion</a>

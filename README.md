@@ -1,4 +1,4 @@
-<p align="center"><a  target="_blank"> welcome to library_system-by laravel</a></p>
+<p align="center"><h1 style="color:'red' "> welcome to library_system-by laravel</h1></p>
 
 
 
@@ -28,8 +28,8 @@ composer install</h3>
  <h5> php artisan migrate <h5>
 <h5> php artisan serve <h5>
 <h1>
-    project include :<br> email by mailtrap 
-    and notification mail and db 
+    project include :<br><p> email by mailtrap 
+    and notification mail and db </p> 
 </h1>
 
 
